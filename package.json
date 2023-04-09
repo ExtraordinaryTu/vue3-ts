@@ -9,6 +9,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "lib-flexible": "^0.3.2",
+    "pinia": "^2.0.34",
+    "sass": "^1.61.0",
+    "vant": "^4.1.2",
     "vue": "^3.2.45",
     "vue-router": "^4.1.6"
   },
